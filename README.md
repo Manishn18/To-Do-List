@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See Project [Live Demo](https://schedule-maker-react.netlify.app/)
 
 ## Available Scripts
 
